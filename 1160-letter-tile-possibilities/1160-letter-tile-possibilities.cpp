@@ -1,30 +1,27 @@
 class Solution {
 public:
-int n;
-    void solve(string& tiles,vector<bool>& res , unordered_set<string>& result, string& curr)
+ int count;
+    int numTilePossibilities(string tiles) {
+       count=0;
+       vector<int>vec(26,0);
+       for(auto& ch : tiles)
+       {
+        vec[ch-'A']++;
+
+       }
+       solve(vec); 
+       return count-1;
+    }
+    void solve(vector<int>& vec)
     {
-        result.insert(curr);
-        for(int i = 0 ; i< n ; i++)
+        count++;
+        for(int i = 0  ; i< 26 ; i++)
         {
-            if(res[i])
+            if(vec[i]==0)
             continue;
-
-            curr.push_back(tiles[i]);
-            res[i]=true;
-           
-            solve(tiles,res,result,curr);
-
-            res[i]=false;
-            curr.pop_back();
+            vec[i]--;
+            solve(vec);
+            vec[i]++;
         }
     }
-    int numTilePossibilities(string tiles) {
-     n = tiles.length();
-     vector<bool> res (n,false);
-     unordered_set<string> result;
-     string curr="";
-     solve(tiles,res,result,curr);
-     return result.size()-1;   
-    }
-    
 };
