@@ -2,22 +2,22 @@ class Solution {
 public:
     string smallestNumber(string pattern) {
         int n = pattern.length();
-        stack<char>st;
         string num = "";
-        int count = 1;
-        for(int i = 0 ; i <= n ; i++)
-        {
-            st.push(count+'0');
-            count++;
-            if( i == n || pattern[i] == 'I' )
-            {
-                while(!st.empty())
-                {
-                    num+=st.top();
-                    st.pop();
-                }
-            }
+        for (int i = 1; i <= n + 1; i++) {
+            num.push_back(i + '0');
+        }
+        while (!pat(pattern, num)) {
+            next_permutation(num.begin(), num.end());
         }
         return num;
+    }
+    bool pat(string& pattern, string& num) {
+        int n = pattern.length();
+        for (int i = 0; i < n; i++) {
+            if (pattern[i] == 'I' && num[i] > num[i + 1] || pattern[i] == 'D' &&
+                num[i] < num[i + 1])
+                return false;
+        }
+        return true;
     }
 };
