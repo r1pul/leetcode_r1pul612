@@ -1,24 +1,30 @@
 class Solution {
 public:
     string getHappyString(int n, int k) {
-        vector<string> res;
+        string res = "";
         string ch = "";
-        solve(ch, res, n);
-        if (res.size() < k)
-            return "";
+        int count = 0;
+
+        solve(ch, res, n, k, count);
         
-        return res[k - 1];
+
+        return res;
     }
-    void solve(string& ch, vector<string>& res, int n) {
-        if ( ch.size() == n) {
-            res.push_back(ch);
+    void solve(string& ch, string& res, int n, int k, int& count) {
+        if (ch.size() == n) {
+            count++;
+            if (count == k) {
+                res = ch;
+            }
             return;
         }
         for (char i = 'a'; i <= 'c'; i++) {
-            if (!ch.empty() &&ch.back() == i)
+            if (!ch.empty() && ch.back() == i)
                 continue;
             ch.push_back(i);
-            solve(ch, res, n);
+            solve(ch, res, n, k, count);
+            if(!res.empty())
+            return;
             ch.pop_back();
         }
     }
