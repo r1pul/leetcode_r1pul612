@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0052-n-queens-ii](https://github.com/r1pul/leetcode_r1pul612/tree/master/0052-n-queens-ii) |
 | [0494-target-sum](https://github.com/r1pul/leetcode_r1pul612/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/r1pul/leetcode_r1pul612/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/r1pul/leetcode_r1pul612/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
