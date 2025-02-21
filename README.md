@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/r1pul/leetcode_r1pul612/tree/master/0011-container-with-most-water) |
+| [0075-sort-colors](https://github.com/r1pul/leetcode_r1pul612/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/r1pul/leetcode_r1pul612/tree/master/0136-single-number) |
 | [0494-target-sum](https://github.com/r1pul/leetcode_r1pul612/tree/master/0494-target-sum) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/r1pul/leetcode_r1pul612/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -22,10 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/r1pul/leetcode_r1pul612/tree/master/0011-container-with-most-water) |
+| [0075-sort-colors](https://github.com/r1pul/leetcode_r1pul612/tree/master/0075-sort-colors) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/r1pul/leetcode_r1pul612/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/r1pul/leetcode_r1pul612/tree/master/0075-sort-colors) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/r1pul/leetcode_r1pul612/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Tree
 |  |
