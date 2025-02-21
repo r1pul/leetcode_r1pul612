@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/r1pul/leetcode_r1pul612/tree/master/0011-container-with-most-water) |
 | [0136-single-number](https://github.com/r1pul/leetcode_r1pul612/tree/master/0136-single-number) |
 | [0494-target-sum](https://github.com/r1pul/leetcode_r1pul612/tree/master/0494-target-sum) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/r1pul/leetcode_r1pul612/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/r1pul/leetcode_r1pul612/tree/master/0011-container-with-most-water) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/r1pul/leetcode_r1pul612/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Sorting
 |  |
@@ -84,5 +86,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/r1pul/leetcode_r1pul612/tree/master/0011-container-with-most-water) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/r1pul/leetcode_r1pul612/tree/master/2456-construct-smallest-number-from-di-string) |
 <!---LeetCode Topics End-->
