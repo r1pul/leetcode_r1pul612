@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/r1pul/leetcode_r1pul612/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/r1pul/leetcode_r1pul612/tree/master/0075-sort-colors) |
+| [0443-string-compression](https://github.com/r1pul/leetcode_r1pul612/tree/master/0443-string-compression) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/r1pul/leetcode_r1pul612/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Sorting
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0443-string-compression](https://github.com/r1pul/leetcode_r1pul612/tree/master/0443-string-compression) |
 | [1160-letter-tile-possibilities](https://github.com/r1pul/leetcode_r1pul612/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/r1pul/leetcode_r1pul612/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/r1pul/leetcode_r1pul612/tree/master/1537-maximum-score-after-splitting-a-string) |
