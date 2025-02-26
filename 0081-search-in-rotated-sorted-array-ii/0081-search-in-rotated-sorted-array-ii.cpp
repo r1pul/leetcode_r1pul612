@@ -2,56 +2,41 @@ class Solution {
 public:
     bool search(vector<int>& nums, int target) {
         int n = nums.size();
-        if (n == 0) return false; // Handle the case of empty input
-        
-        int p = findPivot(nums, n - 1, 0);
-        
-        // Perform binary search in the two possible halves
-        return binarySearch(nums, 0, p - 1, target) || binarySearch(nums, p, n - 1, target);
-    }
-    
-    bool binarySearch(vector<int>& nums, int left, int right, int target) {
-        while (left <= right) {
-            int mid = left + (right - left) / 2;
-            if (nums[mid] == target) {
-                return true;
-            }
-            // Handle duplicates
-            if (nums[left] == nums[mid] && nums[mid] == nums[right]) {
-                left++;
-                right--;
-            } 
-            else if (nums[mid] <= nums[right]) {
-                // Right portion is sorted
-                if (target > nums[mid] && target <= nums[right]) {
-                    left = mid + 1;
-                } else {
-                    right = mid - 1;
-                }
-            } else {
-                // Left portion is sorted
-                if (target >= nums[left] && target < nums[mid]) {
-                    right = mid - 1;
-                } else {
-                    left = mid + 1;
-                }
-            }
-        }
-        return false; // target not found
-    }
-    
-    int findPivot(vector<int>& nums, int right, int left) {
-        while (left < right) {
-            while (left < right && nums[left] == nums[left + 1]) left++;
-            while (left < right && nums[right] == nums[right - 1]) right--;
+        int p = findp(nums, n - 1, 0);
+         
+        if (bs(nums, p - 1, 0,target))
+           return 1;
 
-            int mid = left + (right - left) / 2;
-            if (nums[mid] <= nums[right]) {
-                right = mid;
-            } else {
-                left = mid + 1;
-            }
+        return bs(nums, n - 1, p, target);
+    }
+    bool bs(vector<int>& nums, int r, int l, int& target) {
+        while (l <= r) {
+            int mid = l + (r - l) / 2;
+            if (nums[mid] == target)
+                return true;
+
+            if (nums[mid] < target)
+                l = mid + 1;
+
+            else
+                r = mid - 1;
         }
-        return left; // pivot index
+        return false;
+    }
+    int findp(vector<int>& nums, int r, int l) {
+        while (l < r) {
+            while (l < r && nums[l] == nums[l + 1])
+                l++;
+            while (l < r && nums[r] == nums[r - 1])
+                r--;
+
+            int mid = l+(r - l) / 2;
+            if (nums[mid] <= nums[r])
+                r = mid;
+
+            else
+                l = mid + 1;
+        }
+        return r;
     }
 };
