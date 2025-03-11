@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/r1pul/leetcode_r1pul612/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/r1pul/leetcode_r1pul612/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/r1pul/leetcode_r1pul612/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0264-ugly-number-ii](https://github.com/r1pul/leetcode_r1pul612/tree/master/0264-ugly-number-ii) |
 | [0494-target-sum](https://github.com/r1pul/leetcode_r1pul612/tree/master/0494-target-sum) |
 | [0787-sliding-puzzle](https://github.com/r1pul/leetcode_r1pul612/tree/master/0787-sliding-puzzle) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/r1pul/leetcode_r1pul612/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/r1pul/leetcode_r1pul612/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/r1pul/leetcode_r1pul612/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/r1pul/leetcode_r1pul612/tree/master/0076-minimum-window-substring) |
+| [0264-ugly-number-ii](https://github.com/r1pul/leetcode_r1pul612/tree/master/0264-ugly-number-ii) |
 | [0999-regions-cut-by-slashes](https://github.com/r1pul/leetcode_r1pul612/tree/master/0999-regions-cut-by-slashes) |
 | [1160-letter-tile-possibilities](https://github.com/r1pul/leetcode_r1pul612/tree/master/1160-letter-tile-possibilities) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/r1pul/leetcode_r1pul612/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/r1pul/leetcode_r1pul612/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/r1pul/leetcode_r1pul612/tree/master/0239-sliding-window-maximum) |
+| [0264-ugly-number-ii](https://github.com/r1pul/leetcode_r1pul612/tree/master/0264-ugly-number-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -209,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/r1pul/leetcode_r1pul612/tree/master/0239-sliding-window-maximum) |
+## Math
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/r1pul/leetcode_r1pul612/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
