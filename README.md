@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-count-sub-islands](https://github.com/r1pul/leetcode_r1pul612/tree/master/2035-count-sub-islands) |
 | [2107-find-unique-binary-string](https://github.com/r1pul/leetcode_r1pul612/tree/master/2107-find-unique-binary-string) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/r1pul/leetcode_r1pul612/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/r1pul/leetcode_r1pul612/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/r1pul/leetcode_r1pul612/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/r1pul/leetcode_r1pul612/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Binary Search
@@ -209,14 +210,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/r1pul/leetcode_r1pul612/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/r1pul/leetcode_r1pul612/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/r1pul/leetcode_r1pul612/tree/master/0239-sliding-window-maximum) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/r1pul/leetcode_r1pul612/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/r1pul/leetcode_r1pul612/tree/master/0239-sliding-window-maximum) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/r1pul/leetcode_r1pul612/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/r1pul/leetcode_r1pul612/tree/master/0239-sliding-window-maximum) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/r1pul/leetcode_r1pul612/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Math
 |  |
 | ------- |
