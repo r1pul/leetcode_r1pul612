@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/r1pul/leetcode_r1pul612/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/r1pul/leetcode_r1pul612/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/r1pul/leetcode_r1pul612/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/r1pul/leetcode_r1pul612/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/r1pul/leetcode_r1pul612/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/r1pul/leetcode_r1pul612/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/r1pul/leetcode_r1pul612/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/r1pul/leetcode_r1pul612/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/r1pul/leetcode_r1pul612/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/r1pul/leetcode_r1pul612/tree/master/0239-sliding-window-maximum) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/r1pul/leetcode_r1pul612/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/r1pul/leetcode_r1pul612/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Queue
 |  |
