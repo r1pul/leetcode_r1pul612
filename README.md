@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/r1pul/leetcode_r1pul612/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/r1pul/leetcode_r1pul612/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/r1pul/leetcode_r1pul612/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/r1pul/leetcode_r1pul612/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/r1pul/leetcode_r1pul612/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/r1pul/leetcode_r1pul612/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/r1pul/leetcode_r1pul612/tree/master/0239-sliding-window-maximum) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/r1pul/leetcode_r1pul612/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/r1pul/leetcode_r1pul612/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/r1pul/leetcode_r1pul612/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/r1pul/leetcode_r1pul612/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0494-target-sum](https://github.com/r1pul/leetcode_r1pul612/tree/master/0494-target-sum) |
 | [0787-sliding-puzzle](https://github.com/r1pul/leetcode_r1pul612/tree/master/0787-sliding-puzzle) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/r1pul/leetcode_r1pul612/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
