@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/r1pul/leetcode_r1pul612/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/r1pul/leetcode_r1pul612/tree/master/0032-longest-valid-parentheses) |
 | [0118-pascals-triangle](https://github.com/r1pul/leetcode_r1pul612/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/r1pul/leetcode_r1pul612/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/r1pul/leetcode_r1pul612/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/r1pul/leetcode_r1pul612/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/r1pul/leetcode_r1pul612/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/r1pul/leetcode_r1pul612/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/r1pul/leetcode_r1pul612/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/r1pul/leetcode_r1pul612/tree/master/0125-valid-palindrome) |
 | [0443-string-compression](https://github.com/r1pul/leetcode_r1pul612/tree/master/0443-string-compression) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/r1pul/leetcode_r1pul612/tree/master/0032-longest-valid-parentheses) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/r1pul/leetcode_r1pul612/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Greedy
 |  |
