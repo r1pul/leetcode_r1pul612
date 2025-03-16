@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/r1pul/leetcode_r1pul612/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/r1pul/leetcode_r1pul612/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/r1pul/leetcode_r1pul612/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2665-minimum-time-to-repair-cars](https://github.com/r1pul/leetcode_r1pul612/tree/master/2665-minimum-time-to-repair-cars) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/r1pul/leetcode_r1pul612/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/r1pul/leetcode_r1pul612/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Binary Search
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/r1pul/leetcode_r1pul612/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/r1pul/leetcode_r1pul612/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/r1pul/leetcode_r1pul612/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2665-minimum-time-to-repair-cars](https://github.com/r1pul/leetcode_r1pul612/tree/master/2665-minimum-time-to-repair-cars) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/r1pul/leetcode_r1pul612/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Two Pointers
 |  |
