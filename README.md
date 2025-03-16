@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/r1pul/leetcode_r1pul612/tree/master/0787-sliding-puzzle) |
 | [0801-is-graph-bipartite](https://github.com/r1pul/leetcode_r1pul612/tree/master/0801-is-graph-bipartite) |
 | [0999-regions-cut-by-slashes](https://github.com/r1pul/leetcode_r1pul612/tree/master/0999-regions-cut-by-slashes) |
+| [1558-course-schedule-iv](https://github.com/r1pul/leetcode_r1pul612/tree/master/1558-course-schedule-iv) |
 | [2035-count-sub-islands](https://github.com/r1pul/leetcode_r1pul612/tree/master/2035-count-sub-islands) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/r1pul/leetcode_r1pul612/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Binary Tree
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/r1pul/leetcode_r1pul612/tree/master/0200-number-of-islands) |
 | [0801-is-graph-bipartite](https://github.com/r1pul/leetcode_r1pul612/tree/master/0801-is-graph-bipartite) |
 | [0999-regions-cut-by-slashes](https://github.com/r1pul/leetcode_r1pul612/tree/master/0999-regions-cut-by-slashes) |
+| [1558-course-schedule-iv](https://github.com/r1pul/leetcode_r1pul612/tree/master/1558-course-schedule-iv) |
 | [2035-count-sub-islands](https://github.com/r1pul/leetcode_r1pul612/tree/master/2035-count-sub-islands) |
 ## Union Find
 |  |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/r1pul/leetcode_r1pul612/tree/master/0801-is-graph-bipartite) |
+| [1558-course-schedule-iv](https://github.com/r1pul/leetcode_r1pul612/tree/master/1558-course-schedule-iv) |
 ## Linked List
 |  |
 | ------- |
@@ -246,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/r1pul/leetcode_r1pul612/tree/master/0264-ugly-number-ii) |
+## Topological Sort
+|  |
+| ------- |
+| [1558-course-schedule-iv](https://github.com/r1pul/leetcode_r1pul612/tree/master/1558-course-schedule-iv) |
 <!---LeetCode Topics End-->
