@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/r1pul/leetcode_r1pul612/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/r1pul/leetcode_r1pul612/tree/master/0494-target-sum) |
 | [0787-sliding-puzzle](https://github.com/r1pul/leetcode_r1pul612/tree/master/0787-sliding-puzzle) |
+| [0907-koko-eating-bananas](https://github.com/r1pul/leetcode_r1pul612/tree/master/0907-koko-eating-bananas) |
 | [0999-regions-cut-by-slashes](https://github.com/r1pul/leetcode_r1pul612/tree/master/0999-regions-cut-by-slashes) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/r1pul/leetcode_r1pul612/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1603-running-sum-of-1d-array](https://github.com/r1pul/leetcode_r1pul612/tree/master/1603-running-sum-of-1d-array) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/r1pul/leetcode_r1pul612/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0410-split-array-largest-sum](https://github.com/r1pul/leetcode_r1pul612/tree/master/0410-split-array-largest-sum) |
+| [0907-koko-eating-bananas](https://github.com/r1pul/leetcode_r1pul612/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/r1pul/leetcode_r1pul612/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/r1pul/leetcode_r1pul612/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/r1pul/leetcode_r1pul612/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
