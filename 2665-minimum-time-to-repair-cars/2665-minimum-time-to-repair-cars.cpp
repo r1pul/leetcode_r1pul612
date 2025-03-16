@@ -4,8 +4,8 @@ public:
     long long repairCars(vector<int>& ranks, int cars) {
         int n = ranks.size();
         ll l = 1;
-        int maxe = *max_element(ranks.begin(),ranks.end());
-        ll r = 1LL * maxe * cars * cars;
+        
+        ll r = 1LL *( *max_element(ranks.begin(),ranks.end())) * cars * cars;
         ll res = 0;
         while(l<=r){
             ll mid = l + (r-l)/2;
