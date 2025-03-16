@@ -1,50 +1,46 @@
 class Solution {
 public:
-    void preprocess(int n, vector<vector<bool>>& grid,unordered_map<int, vector<int>>& adj ){
-        for(int i = 0 ; i < n ; i++){
-            for(int j = 0 ; j < n ; j++){
-                if(i!=j){
-                    vector<bool>visited(n,false);
-                    if(dfs(adj,i,j,visited)){
-                        grid[i][j]=true;
-                    }
-                }
-            }
-        }
-    }
-    vector<bool> checkIfPrerequisite(int numCourses,
-                                     vector<vector<int>>& prerequisites,
-                                     vector<vector<int>>& queries) {
-        unordered_map<int, vector<int>> adj;
-        for (auto& vec : prerequisites) {
+    vector<bool> checkIfPrerequisite(int numCourses, vector<vector<int>>& prerequisites, vector<vector<int>>& queries) {
+        unordered_map<int,vector<int>> adj;
+        vector<int> indgree(numCourses,0);
+        for(auto &vec : prerequisites){
             int u = vec[0];
             int v = vec[1];
             adj[u].push_back(v);
+            indgree[v]++;
+
         }
-        vector<vector<bool>> grid(numCourses,vector<bool>(numCourses,false));
-        preprocess(numCourses,grid,adj);
+        queue<int> que;
+        for(int i = 0 ; i < numCourses ; i++){
+            if(indgree[i]==0)
+            que.push(i);
+        }
+        unordered_map<int,unordered_set<int>>mp;
+        while(!que.empty()){
+            int n = que.front();
+            que.pop();
+            for(auto &v : adj[n]){
+                mp[v].insert(n);
+                for(auto &u : mp[n])
+                mp[v].insert(u);
+
+                indgree[v]--;
+                if(!indgree[v])
+                que.push(v);
+
+            }
+            
+        }
         int q = queries.size();
-        vector<bool> res(q);
-        for (int i = 0; i < q; i++) {
+        vector<bool>res(q,false);
+        for(int i = 0 ; i < q; i++){
             int u = queries[i][0];
             int v = queries[i][1];
-            
-            res[i] = grid[u][v];
+            bool isreach = mp[v].contains(u);
+            res[i]=isreach;
+
         }
         return res;
-    }
-    bool dfs(unordered_map<int, vector<int>>& adj, int u, int v,
-             vector<bool>& visited) {
-        visited[u] = true;
-        if(u==v)
-        return true;
-        bool isreach = false;
-        for (auto& vec : adj[u]) {
-            if (!visited[vec]) {
-                isreach = isreach || dfs(adj, vec, v, visited);
-            }
-           
-        }
-         return isreach;
+
     }
 };
