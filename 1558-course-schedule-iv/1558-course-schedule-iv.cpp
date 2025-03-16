@@ -1,5 +1,17 @@
 class Solution {
 public:
+    void preprocess(int n, vector<vector<bool>>& grid,unordered_map<int, vector<int>>& adj ){
+        for(int i = 0 ; i < n ; i++){
+            for(int j = 0 ; j < n ; j++){
+                if(i!=j){
+                    vector<bool>visited(n,false);
+                    if(dfs(adj,i,j,visited)){
+                        grid[i][j]=true;
+                    }
+                }
+            }
+        }
+    }
     vector<bool> checkIfPrerequisite(int numCourses,
                                      vector<vector<int>>& prerequisites,
                                      vector<vector<int>>& queries) {
@@ -9,13 +21,15 @@ public:
             int v = vec[1];
             adj[u].push_back(v);
         }
+        vector<vector<bool>> grid(numCourses,vector<bool>(numCourses,false));
+        preprocess(numCourses,grid,adj);
         int q = queries.size();
         vector<bool> res(q);
         for (int i = 0; i < q; i++) {
             int u = queries[i][0];
             int v = queries[i][1];
-            vector<bool> visited(numCourses, false);
-            res[i] = dfs(adj, u, v, visited);
+            
+            res[i] = grid[u][v];
         }
         return res;
     }
