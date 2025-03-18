@@ -60,12 +60,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/r1pul/leetcode_r1pul612/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/r1pul/leetcode_r1pul612/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/r1pul/leetcode_r1pul612/tree/master/0199-binary-tree-right-side-view) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/r1pul/leetcode_r1pul612/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/r1pul/leetcode_r1pul612/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/r1pul/leetcode_r1pul612/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/r1pul/leetcode_r1pul612/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/r1pul/leetcode_r1pul612/tree/master/0200-number-of-islands) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/r1pul/leetcode_r1pul612/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/r1pul/leetcode_r1pul612/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/r1pul/leetcode_r1pul612/tree/master/0199-binary-tree-right-side-view) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/r1pul/leetcode_r1pul612/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/r1pul/leetcode_r1pul612/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/r1pul/leetcode_r1pul612/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/r1pul/leetcode_r1pul612/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/r1pul/leetcode_r1pul612/tree/master/0200-number-of-islands) |
