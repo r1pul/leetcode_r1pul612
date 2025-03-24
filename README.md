@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/r1pul/leetcode_r1pul612/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/r1pul/leetcode_r1pul612/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/r1pul/leetcode_r1pul612/tree/master/0226-invert-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/r1pul/leetcode_r1pul612/tree/master/0783-search-in-a-binary-search-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/r1pul/leetcode_r1pul612/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Breadth-First Search
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/r1pul/leetcode_r1pul612/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/r1pul/leetcode_r1pul612/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/r1pul/leetcode_r1pul612/tree/master/0226-invert-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/r1pul/leetcode_r1pul612/tree/master/0783-search-in-a-binary-search-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/r1pul/leetcode_r1pul612/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Dynamic Programming
 |  |
@@ -265,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1558-course-schedule-iv](https://github.com/r1pul/leetcode_r1pul612/tree/master/1558-course-schedule-iv) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/r1pul/leetcode_r1pul612/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
