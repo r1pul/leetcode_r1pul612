@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/r1pul/leetcode_r1pul612/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/r1pul/leetcode_r1pul612/tree/master/2665-minimum-time-to-repair-cars) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/r1pul/leetcode_r1pul612/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2755-extra-characters-in-a-string](https://github.com/r1pul/leetcode_r1pul612/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/r1pul/leetcode_r1pul612/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/r1pul/leetcode_r1pul612/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Binary Search
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/r1pul/leetcode_r1pul612/tree/master/1063-best-sightseeing-pair) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/r1pul/leetcode_r1pul612/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2554-minimum-total-distance-traveled](https://github.com/r1pul/leetcode_r1pul612/tree/master/2554-minimum-total-distance-traveled) |
+| [2755-extra-characters-in-a-string](https://github.com/r1pul/leetcode_r1pul612/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/r1pul/leetcode_r1pul612/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Backtracking
 |  |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/r1pul/leetcode_r1pul612/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/r1pul/leetcode_r1pul612/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/r1pul/leetcode_r1pul612/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2755-extra-characters-in-a-string](https://github.com/r1pul/leetcode_r1pul612/tree/master/2755-extra-characters-in-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/r1pul/leetcode_r1pul612/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/r1pul/leetcode_r1pul612/tree/master/2107-find-unique-binary-string) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/r1pul/leetcode_r1pul612/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2755-extra-characters-in-a-string](https://github.com/r1pul/leetcode_r1pul612/tree/master/2755-extra-characters-in-a-string) |
 ## Counting
 |  |
 | ------- |
@@ -304,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/r1pul/leetcode_r1pul612/tree/master/0948-sort-an-array) |
+## Trie
+|  |
+| ------- |
+| [2755-extra-characters-in-a-string](https://github.com/r1pul/leetcode_r1pul612/tree/master/2755-extra-characters-in-a-string) |
 <!---LeetCode Topics End-->
