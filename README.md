@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/r1pul/leetcode_r1pul612/tree/master/0948-sort-an-array) |
 | [0999-regions-cut-by-slashes](https://github.com/r1pul/leetcode_r1pul612/tree/master/0999-regions-cut-by-slashes) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/r1pul/leetcode_r1pul612/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1063-best-sightseeing-pair](https://github.com/r1pul/leetcode_r1pul612/tree/master/1063-best-sightseeing-pair) |
 | [1603-running-sum-of-1d-array](https://github.com/r1pul/leetcode_r1pul612/tree/master/1603-running-sum-of-1d-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/r1pul/leetcode_r1pul612/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/r1pul/leetcode_r1pul612/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/r1pul/leetcode_r1pul612/tree/master/0494-target-sum) |
 | [0650-2-keys-keyboard](https://github.com/r1pul/leetcode_r1pul612/tree/master/0650-2-keys-keyboard) |
 | [0787-sliding-puzzle](https://github.com/r1pul/leetcode_r1pul612/tree/master/0787-sliding-puzzle) |
+| [1063-best-sightseeing-pair](https://github.com/r1pul/leetcode_r1pul612/tree/master/1063-best-sightseeing-pair) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/r1pul/leetcode_r1pul612/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2554-minimum-total-distance-traveled](https://github.com/r1pul/leetcode_r1pul612/tree/master/2554-minimum-total-distance-traveled) |
 ## Backtracking
