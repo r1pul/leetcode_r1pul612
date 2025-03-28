@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/r1pul/leetcode_r1pul612/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/r1pul/leetcode_r1pul612/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/r1pul/leetcode_r1pul612/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2554-minimum-total-distance-traveled](https://github.com/r1pul/leetcode_r1pul612/tree/master/2554-minimum-total-distance-traveled) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/r1pul/leetcode_r1pul612/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/r1pul/leetcode_r1pul612/tree/master/2665-minimum-time-to-repair-cars) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/r1pul/leetcode_r1pul612/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/r1pul/leetcode_r1pul612/tree/master/0075-sort-colors) |
 | [0948-sort-an-array](https://github.com/r1pul/leetcode_r1pul612/tree/master/0948-sort-an-array) |
+| [2554-minimum-total-distance-traveled](https://github.com/r1pul/leetcode_r1pul612/tree/master/2554-minimum-total-distance-traveled) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/r1pul/leetcode_r1pul612/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Tree
 |  |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/r1pul/leetcode_r1pul612/tree/master/0650-2-keys-keyboard) |
 | [0787-sliding-puzzle](https://github.com/r1pul/leetcode_r1pul612/tree/master/0787-sliding-puzzle) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/r1pul/leetcode_r1pul612/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2554-minimum-total-distance-traveled](https://github.com/r1pul/leetcode_r1pul612/tree/master/2554-minimum-total-distance-traveled) |
 ## Backtracking
 |  |
 | ------- |
