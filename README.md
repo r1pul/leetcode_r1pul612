@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/r1pul/leetcode_r1pul612/tree/master/0787-sliding-puzzle) |
 | [1063-best-sightseeing-pair](https://github.com/r1pul/leetcode_r1pul612/tree/master/1063-best-sightseeing-pair) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/r1pul/leetcode_r1pul612/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/r1pul/leetcode_r1pul612/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2554-minimum-total-distance-traveled](https://github.com/r1pul/leetcode_r1pul612/tree/master/2554-minimum-total-distance-traveled) |
 | [2755-extra-characters-in-a-string](https://github.com/r1pul/leetcode_r1pul612/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/r1pul/leetcode_r1pul612/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/r1pul/leetcode_r1pul612/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/r1pul/leetcode_r1pul612/tree/master/0801-is-graph-bipartite) |
 | [1558-course-schedule-iv](https://github.com/r1pul/leetcode_r1pul612/tree/master/1558-course-schedule-iv) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/r1pul/leetcode_r1pul612/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2793-count-the-number-of-complete-components](https://github.com/r1pul/leetcode_r1pul612/tree/master/2793-count-the-number-of-complete-components) |
 ## Linked List
 |  |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1558-course-schedule-iv](https://github.com/r1pul/leetcode_r1pul612/tree/master/1558-course-schedule-iv) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/r1pul/leetcode_r1pul612/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -316,4 +319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2755-extra-characters-in-a-string](https://github.com/r1pul/leetcode_r1pul612/tree/master/2755-extra-characters-in-a-string) |
+## Shortest Path
+|  |
+| ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/r1pul/leetcode_r1pul612/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
