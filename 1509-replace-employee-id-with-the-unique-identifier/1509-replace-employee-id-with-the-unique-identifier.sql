@@ -1,0 +1,1 @@
+select name, unique_id from Employees LEFT join EmployeeUNI using (id);
