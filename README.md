@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-count-sub-islands](https://github.com/r1pul/leetcode_r1pul612/tree/master/2035-count-sub-islands) |
 | [2107-find-unique-binary-string](https://github.com/r1pul/leetcode_r1pul612/tree/master/2107-find-unique-binary-string) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/r1pul/leetcode_r1pul612/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/r1pul/leetcode_r1pul612/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/r1pul/leetcode_r1pul612/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/r1pul/leetcode_r1pul612/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/r1pul/leetcode_r1pul612/tree/master/2554-minimum-total-distance-traveled) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/r1pul/leetcode_r1pul612/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/r1pul/leetcode_r1pul612/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/r1pul/leetcode_r1pul612/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/r1pul/leetcode_r1pul612/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/r1pul/leetcode_r1pul612/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/r1pul/leetcode_r1pul612/tree/master/2665-minimum-time-to-repair-cars) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/r1pul/leetcode_r1pul612/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/r1pul/leetcode_r1pul612/tree/master/0410-split-array-largest-sum) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/r1pul/leetcode_r1pul612/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/r1pul/leetcode_r1pul612/tree/master/1603-running-sum-of-1d-array) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/r1pul/leetcode_r1pul612/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/r1pul/leetcode_r1pul612/tree/master/0424-longest-repeating-character-replacement) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/r1pul/leetcode_r1pul612/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/r1pul/leetcode_r1pul612/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/r1pul/leetcode_r1pul612/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/r1pul/leetcode_r1pul612/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/r1pul/leetcode_r1pul612/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Queue
