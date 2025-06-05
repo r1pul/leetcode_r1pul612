@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/r1pul/leetcode_r1pul612/tree/master/0125-valid-palindrome) |
 | [0443-string-compression](https://github.com/r1pul/leetcode_r1pul612/tree/master/0443-string-compression) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/r1pul/leetcode_r1pul612/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/r1pul/leetcode_r1pul612/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Sorting
 |  |
 | ------- |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/r1pul/leetcode_r1pul612/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/r1pul/leetcode_r1pul612/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2755-extra-characters-in-a-string](https://github.com/r1pul/leetcode_r1pul612/tree/master/2755-extra-characters-in-a-string) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/r1pul/leetcode_r1pul612/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -348,4 +350,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1258-article-views-i](https://github.com/r1pul/leetcode_r1pul612/tree/master/1258-article-views-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/r1pul/leetcode_r1pul612/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/r1pul/leetcode_r1pul612/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+## Enumeration
+|  |
+| ------- |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/r1pul/leetcode_r1pul612/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 <!---LeetCode Topics End-->
