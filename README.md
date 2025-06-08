@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/r1pul/leetcode_r1pul612/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/r1pul/leetcode_r1pul612/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/r1pul/leetcode_r1pul612/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0386-lexicographical-numbers](https://github.com/r1pul/leetcode_r1pul612/tree/master/0386-lexicographical-numbers) |
 | [0547-number-of-provinces](https://github.com/r1pul/leetcode_r1pul612/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/r1pul/leetcode_r1pul612/tree/master/0801-is-graph-bipartite) |
 | [0999-regions-cut-by-slashes](https://github.com/r1pul/leetcode_r1pul612/tree/master/0999-regions-cut-by-slashes) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/r1pul/leetcode_r1pul612/tree/master/0386-lexicographical-numbers) |
 | [2755-extra-characters-in-a-string](https://github.com/r1pul/leetcode_r1pul612/tree/master/2755-extra-characters-in-a-string) |
 ## Shortest Path
 |  |
