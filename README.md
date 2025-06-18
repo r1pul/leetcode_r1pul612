@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/r1pul/leetcode_r1pul612/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/r1pul/leetcode_r1pul612/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/r1pul/leetcode_r1pul612/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/r1pul/leetcode_r1pul612/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/r1pul/leetcode_r1pul612/tree/master/0239-sliding-window-maximum) |
 | [0410-split-array-largest-sum](https://github.com/r1pul/leetcode_r1pul612/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/r1pul/leetcode_r1pul612/tree/master/0494-target-sum) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/r1pul/leetcode_r1pul612/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0209-minimum-size-subarray-sum](https://github.com/r1pul/leetcode_r1pul612/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/r1pul/leetcode_r1pul612/tree/master/0410-split-array-largest-sum) |
 | [0907-koko-eating-bananas](https://github.com/r1pul/leetcode_r1pul612/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/r1pul/leetcode_r1pul612/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/r1pul/leetcode_r1pul612/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/r1pul/leetcode_r1pul612/tree/master/0410-split-array-largest-sum) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/r1pul/leetcode_r1pul612/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/r1pul/leetcode_r1pul612/tree/master/1603-running-sum-of-1d-array) |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/r1pul/leetcode_r1pul612/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/r1pul/leetcode_r1pul612/tree/master/0076-minimum-window-substring) |
+| [0209-minimum-size-subarray-sum](https://github.com/r1pul/leetcode_r1pul612/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/r1pul/leetcode_r1pul612/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/r1pul/leetcode_r1pul612/tree/master/0424-longest-repeating-character-replacement) |
 | [1034-subarrays-with-k-different-integers](https://github.com/r1pul/leetcode_r1pul612/tree/master/1034-subarrays-with-k-different-integers) |
