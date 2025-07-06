@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/r1pul/leetcode_r1pul612/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/r1pul/leetcode_r1pul612/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/r1pul/leetcode_r1pul612/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/r1pul/leetcode_r1pul612/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/r1pul/leetcode_r1pul612/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/r1pul/leetcode_r1pul612/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/r1pul/leetcode_r1pul612/tree/master/0239-sliding-window-maximum) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/r1pul/leetcode_r1pul612/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/r1pul/leetcode_r1pul612/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/r1pul/leetcode_r1pul612/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/r1pul/leetcode_r1pul612/tree/master/0948-sort-an-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/r1pul/leetcode_r1pul612/tree/master/2554-minimum-total-distance-traveled) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/r1pul/leetcode_r1pul612/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/r1pul/leetcode_r1pul612/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/r1pul/leetcode_r1pul612/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/r1pul/leetcode_r1pul612/tree/master/0076-minimum-window-substring) |
+| [0169-majority-element](https://github.com/r1pul/leetcode_r1pul612/tree/master/0169-majority-element) |
 | [0264-ugly-number-ii](https://github.com/r1pul/leetcode_r1pul612/tree/master/0264-ugly-number-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/r1pul/leetcode_r1pul612/tree/master/0424-longest-repeating-character-replacement) |
 | [0999-regions-cut-by-slashes](https://github.com/r1pul/leetcode_r1pul612/tree/master/0999-regions-cut-by-slashes) |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/r1pul/leetcode_r1pul612/tree/master/0169-majority-element) |
 | [1034-subarrays-with-k-different-integers](https://github.com/r1pul/leetcode_r1pul612/tree/master/1034-subarrays-with-k-different-integers) |
 | [1160-letter-tile-possibilities](https://github.com/r1pul/leetcode_r1pul612/tree/master/1160-letter-tile-possibilities) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/r1pul/leetcode_r1pul612/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -285,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/r1pul/leetcode_r1pul612/tree/master/0023-merge-k-sorted-lists) |
+| [0169-majority-element](https://github.com/r1pul/leetcode_r1pul612/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/r1pul/leetcode_r1pul612/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
