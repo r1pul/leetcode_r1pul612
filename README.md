@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/r1pul/leetcode_r1pul612/tree/master/0239-sliding-window-maximum) |
 | [0410-split-array-largest-sum](https://github.com/r1pul/leetcode_r1pul612/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/r1pul/leetcode_r1pul612/tree/master/0494-target-sum) |
+| [0721-accounts-merge](https://github.com/r1pul/leetcode_r1pul612/tree/master/0721-accounts-merge) |
 | [0787-sliding-puzzle](https://github.com/r1pul/leetcode_r1pul612/tree/master/0787-sliding-puzzle) |
 | [0907-koko-eating-bananas](https://github.com/r1pul/leetcode_r1pul612/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/r1pul/leetcode_r1pul612/tree/master/0948-sort-an-array) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/r1pul/leetcode_r1pul612/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/r1pul/leetcode_r1pul612/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/r1pul/leetcode_r1pul612/tree/master/0229-majority-element-ii) |
+| [0721-accounts-merge](https://github.com/r1pul/leetcode_r1pul612/tree/master/0721-accounts-merge) |
 | [0948-sort-an-array](https://github.com/r1pul/leetcode_r1pul612/tree/master/0948-sort-an-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/r1pul/leetcode_r1pul612/tree/master/2554-minimum-total-distance-traveled) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/r1pul/leetcode_r1pul612/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/r1pul/leetcode_r1pul612/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/r1pul/leetcode_r1pul612/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/r1pul/leetcode_r1pul612/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/r1pul/leetcode_r1pul612/tree/master/0721-accounts-merge) |
 | [0787-sliding-puzzle](https://github.com/r1pul/leetcode_r1pul612/tree/master/0787-sliding-puzzle) |
 | [0801-is-graph-bipartite](https://github.com/r1pul/leetcode_r1pul612/tree/master/0801-is-graph-bipartite) |
 | [0999-regions-cut-by-slashes](https://github.com/r1pul/leetcode_r1pul612/tree/master/0999-regions-cut-by-slashes) |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/r1pul/leetcode_r1pul612/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/r1pul/leetcode_r1pul612/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/r1pul/leetcode_r1pul612/tree/master/0443-string-compression) |
+| [0721-accounts-merge](https://github.com/r1pul/leetcode_r1pul612/tree/master/0721-accounts-merge) |
 | [1160-letter-tile-possibilities](https://github.com/r1pul/leetcode_r1pul612/tree/master/1160-letter-tile-possibilities) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/r1pul/leetcode_r1pul612/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/r1pul/leetcode_r1pul612/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -200,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/r1pul/leetcode_r1pul612/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/r1pul/leetcode_r1pul612/tree/master/0264-ugly-number-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/r1pul/leetcode_r1pul612/tree/master/0424-longest-repeating-character-replacement) |
+| [0721-accounts-merge](https://github.com/r1pul/leetcode_r1pul612/tree/master/0721-accounts-merge) |
 | [0999-regions-cut-by-slashes](https://github.com/r1pul/leetcode_r1pul612/tree/master/0999-regions-cut-by-slashes) |
 | [1034-subarrays-with-k-different-integers](https://github.com/r1pul/leetcode_r1pul612/tree/master/1034-subarrays-with-k-different-integers) |
 | [1160-letter-tile-possibilities](https://github.com/r1pul/leetcode_r1pul612/tree/master/1160-letter-tile-possibilities) |
@@ -250,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/r1pul/leetcode_r1pul612/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/r1pul/leetcode_r1pul612/tree/master/0386-lexicographical-numbers) |
 | [0547-number-of-provinces](https://github.com/r1pul/leetcode_r1pul612/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/r1pul/leetcode_r1pul612/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/r1pul/leetcode_r1pul612/tree/master/0801-is-graph-bipartite) |
 | [0999-regions-cut-by-slashes](https://github.com/r1pul/leetcode_r1pul612/tree/master/0999-regions-cut-by-slashes) |
 | [1558-course-schedule-iv](https://github.com/r1pul/leetcode_r1pul612/tree/master/1558-course-schedule-iv) |
@@ -260,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/r1pul/leetcode_r1pul612/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/r1pul/leetcode_r1pul612/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/r1pul/leetcode_r1pul612/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/r1pul/leetcode_r1pul612/tree/master/0801-is-graph-bipartite) |
 | [0999-regions-cut-by-slashes](https://github.com/r1pul/leetcode_r1pul612/tree/master/0999-regions-cut-by-slashes) |
 | [2035-count-sub-islands](https://github.com/r1pul/leetcode_r1pul612/tree/master/2035-count-sub-islands) |
