@@ -9,21 +9,24 @@ public:
             mp[v].push_back(u);
         }
         vector<bool>visited(n,false);
-        return dfs(mp,visited,source,destination);
+        queue<int>q;
+        q.push(source);
+        visited[source]=1;
 
-    }
-    bool dfs(unordered_map<int,vector<int>>& mp , vector<bool>& visited, int u , int v){
-        if(u==v)
-        return true;
-        visited[u]=true;
-
-        for(auto& vec : mp[u]){
-            if(!visited[vec])
-            if(dfs(mp,visited,vec,v))
-                return true;
+        while(!q.empty()){
+            int curr = q.front();
+            q.pop();
+            if(curr==destination)
+            return true;
             
+            for(auto& vec : mp[curr]){
+                if(!visited[vec]){
+                 visited[vec]=1;
+                 q.push(vec);
+                 }
+            }
         }
-        return false;
+    return false;
     }
 
 };
