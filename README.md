@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/r1pul/leetcode_r1pul612/tree/master/0787-sliding-puzzle) |
 | [1063-best-sightseeing-pair](https://github.com/r1pul/leetcode_r1pul612/tree/master/1063-best-sightseeing-pair) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/r1pul/leetcode_r1pul612/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/r1pul/leetcode_r1pul612/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/r1pul/leetcode_r1pul612/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2554-minimum-total-distance-traveled](https://github.com/r1pul/leetcode_r1pul612/tree/master/2554-minimum-total-distance-traveled) |
 | [2755-extra-characters-in-a-string](https://github.com/r1pul/leetcode_r1pul612/tree/master/2755-extra-characters-in-a-string) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/r1pul/leetcode_r1pul612/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1558-course-schedule-iv](https://github.com/r1pul/leetcode_r1pul612/tree/master/1558-course-schedule-iv) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/r1pul/leetcode_r1pul612/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/r1pul/leetcode_r1pul612/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/r1pul/leetcode_r1pul612/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2121-find-if-path-exists-in-graph](https://github.com/r1pul/leetcode_r1pul612/tree/master/2121-find-if-path-exists-in-graph) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/r1pul/leetcode_r1pul612/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/r1pul/leetcode_r1pul612/tree/master/0264-ugly-number-ii) |
 | [0948-sort-an-array](https://github.com/r1pul/leetcode_r1pul612/tree/master/0948-sort-an-array) |
 | [1753-path-with-minimum-effort](https://github.com/r1pul/leetcode_r1pul612/tree/master/1753-path-with-minimum-effort) |
+| [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/r1pul/leetcode_r1pul612/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 ## Merge Sort
 |  |
 | ------- |
@@ -379,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1558-course-schedule-iv](https://github.com/r1pul/leetcode_r1pul612/tree/master/1558-course-schedule-iv) |
+| [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/r1pul/leetcode_r1pul612/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/r1pul/leetcode_r1pul612/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Binary Search Tree
 |  |
@@ -404,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/r1pul/leetcode_r1pul612/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/r1pul/leetcode_r1pul612/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Database
 |  |
