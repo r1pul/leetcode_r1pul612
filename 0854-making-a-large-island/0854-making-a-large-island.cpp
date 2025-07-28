@@ -88,3 +88,9 @@ vector<vector<int>>dir={{0,1},{0,-1},{1,0},{-1,0}};
         return maxarea;
     }
 };
+auto init = []() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+    cout.tie(nullptr);
+    return 'c';
+}();
