@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/r1pul/leetcode_r1pul612/tree/master/0494-target-sum) |
 | [0721-accounts-merge](https://github.com/r1pul/leetcode_r1pul612/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/r1pul/leetcode_r1pul612/tree/master/0733-flood-fill) |
+| [0747-min-cost-climbing-stairs](https://github.com/r1pul/leetcode_r1pul612/tree/master/0747-min-cost-climbing-stairs) |
 | [0787-sliding-puzzle](https://github.com/r1pul/leetcode_r1pul612/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/r1pul/leetcode_r1pul612/tree/master/0854-making-a-large-island) |
 | [0907-koko-eating-bananas](https://github.com/r1pul/leetcode_r1pul612/tree/master/0907-koko-eating-bananas) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/r1pul/leetcode_r1pul612/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/r1pul/leetcode_r1pul612/tree/master/0494-target-sum) |
 | [0650-2-keys-keyboard](https://github.com/r1pul/leetcode_r1pul612/tree/master/0650-2-keys-keyboard) |
+| [0747-min-cost-climbing-stairs](https://github.com/r1pul/leetcode_r1pul612/tree/master/0747-min-cost-climbing-stairs) |
 | [0787-sliding-puzzle](https://github.com/r1pul/leetcode_r1pul612/tree/master/0787-sliding-puzzle) |
 | [1063-best-sightseeing-pair](https://github.com/r1pul/leetcode_r1pul612/tree/master/1063-best-sightseeing-pair) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/r1pul/leetcode_r1pul612/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
