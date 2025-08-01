@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/r1pul/leetcode_r1pul612/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/r1pul/leetcode_r1pul612/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/r1pul/leetcode_r1pul612/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/r1pul/leetcode_r1pul612/tree/master/0744-network-delay-time) |
 | [0787-sliding-puzzle](https://github.com/r1pul/leetcode_r1pul612/tree/master/0787-sliding-puzzle) |
 | [0801-is-graph-bipartite](https://github.com/r1pul/leetcode_r1pul612/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/r1pul/leetcode_r1pul612/tree/master/0854-making-a-large-island) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/r1pul/leetcode_r1pul612/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/r1pul/leetcode_r1pul612/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/r1pul/leetcode_r1pul612/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/r1pul/leetcode_r1pul612/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/r1pul/leetcode_r1pul612/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/r1pul/leetcode_r1pul612/tree/master/0854-making-a-large-island) |
 | [0999-regions-cut-by-slashes](https://github.com/r1pul/leetcode_r1pul612/tree/master/0999-regions-cut-by-slashes) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/r1pul/leetcode_r1pul612/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/r1pul/leetcode_r1pul612/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/r1pul/leetcode_r1pul612/tree/master/0801-is-graph-bipartite) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/r1pul/leetcode_r1pul612/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/r1pul/leetcode_r1pul612/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/r1pul/leetcode_r1pul612/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/r1pul/leetcode_r1pul612/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/r1pul/leetcode_r1pul612/tree/master/0264-ugly-number-ii) |
+| [0744-network-delay-time](https://github.com/r1pul/leetcode_r1pul612/tree/master/0744-network-delay-time) |
 | [0948-sort-an-array](https://github.com/r1pul/leetcode_r1pul612/tree/master/0948-sort-an-array) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/r1pul/leetcode_r1pul612/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1753-path-with-minimum-effort](https://github.com/r1pul/leetcode_r1pul612/tree/master/1753-path-with-minimum-effort) |
@@ -425,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/r1pul/leetcode_r1pul612/tree/master/0744-network-delay-time) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/r1pul/leetcode_r1pul612/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/r1pul/leetcode_r1pul612/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/r1pul/leetcode_r1pul612/tree/master/2090-number-of-ways-to-arrive-at-destination) |
