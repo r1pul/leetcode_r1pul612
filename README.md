@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/r1pul/leetcode_r1pul612/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/r1pul/leetcode_r1pul612/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/r1pul/leetcode_r1pul612/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/r1pul/leetcode_r1pul612/tree/master/0142-linked-list-cycle-ii) |
 | [0443-string-compression](https://github.com/r1pul/leetcode_r1pul612/tree/master/0443-string-compression) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/r1pul/leetcode_r1pul612/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/r1pul/leetcode_r1pul612/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/r1pul/leetcode_r1pul612/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/r1pul/leetcode_r1pul612/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/r1pul/leetcode_r1pul612/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/r1pul/leetcode_r1pul612/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/r1pul/leetcode_r1pul612/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/r1pul/leetcode_r1pul612/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/r1pul/leetcode_r1pul612/tree/master/0264-ugly-number-ii) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/r1pul/leetcode_r1pul612/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/r1pul/leetcode_r1pul612/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/r1pul/leetcode_r1pul612/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/r1pul/leetcode_r1pul612/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/r1pul/leetcode_r1pul612/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
 |  |
