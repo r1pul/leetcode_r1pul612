@@ -1,19 +1,19 @@
 class Solution {
 public:
-int solve(vector<int>& nums , int curr){
+int solve(vector<int>& nums ){
     vector<int> dp (nums.size() + 1);
-    dp[0] = 0;
-    dp[1] = nums[0];
+    int prev = 0;
+    int curr = nums[0];
 
     for(int i = 2 ;  i < nums.size() + 1 ; i++){
-        int take = dp[i - 2] + nums[i-1];
-        int skip = dp[i-1];
-        dp[i] = max(take,skip);
+        int temp =max( nums[i - 1] + prev,curr);
+        prev = curr;
+        curr = temp;
     }
-    return dp[nums.size() ];
+    return curr;
 
 }
     int rob(vector<int>& nums) {
-        return solve(nums,0);
+        return solve(nums);
     }
 };
