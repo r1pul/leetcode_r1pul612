@@ -430,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/r1pul/leetcode_r1pul612/tree/master/0070-climbing-stairs) |
 | [0264-ugly-number-ii](https://github.com/r1pul/leetcode_r1pul612/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/r1pul/leetcode_r1pul612/tree/master/0650-2-keys-keyboard) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/r1pul/leetcode_r1pul612/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Topological Sort
 |  |
 | ------- |
